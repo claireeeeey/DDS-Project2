@@ -191,7 +191,7 @@ body {
 
 .layout-heading {
     margin-bottom: 1.25rem;
-    font-family: "Swiss721BT",sans-serif;
+    font-family: "Swiss721BT";
     position: relative;
     letter-spacing: -0.025em;
 }
@@ -237,7 +237,7 @@ body {
 }
 
 .c-button {
-    font-family: Swiss721BT;
+    font-family: "Swiss721BT";
     text-transform: uppercase;
     font-weight: bold;
     font-size: .75rem;
@@ -374,6 +374,7 @@ body {
 
 .firstname {
     font-size: .625rem;
+    font-family: 'Swiss721';
 }
 
 .c-rail li{
